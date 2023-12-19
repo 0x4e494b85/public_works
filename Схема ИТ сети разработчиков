@@ -4,9 +4,9 @@
 
 Обобщённый Жизненный цикл разработки ПО:
 
-![Схема](https://github.com/0x4e494b85/SPSRPO/blob/main/SSDLC.jpg "SSDLC")
+![Схема](https://github.com/0x4e494b85/public_works/blob/main/SSDLC.jpg "SSDLC")
 
-![Схема](https://github.com/0x4e494b85/SPSRPO/blob/main/Schema1v2.jpg "Простейшая схема сети разработчиков")
+![Схема](https://github.com/0x4e494b85/public_works/blob/main/Schema1v2.jpg "Простейшая схема сети разработчиков")
 
 [среда разработки](https://ru.hexlet.io/blog/posts/environment)
 
@@ -15,7 +15,7 @@
 
 ### NAS-сервер традиционно состоит из следующих компонентов.
 
-![Схема сети с NAS](https://github.com/0x4e494b85/SPSRPO/blob/main/01.jpg "Схема использования NAS")
+![Схема сети с NAS]( https://github.com/0x4e494b85/public_works/blob/main/01.jpg "Схема использования NAS")
 
 **Физически накопители**. Поддержка от трёх до пяти жёстких дисков (или SSD) в слоте гарантирует большую ёмкость хранилища. При этом часть логических дисков отведена под создание избыточного массива независимых дисков — RAID массива.
 
